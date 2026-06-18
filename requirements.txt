@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+requests
+seaborn
+statsbombpy
+urllib3
